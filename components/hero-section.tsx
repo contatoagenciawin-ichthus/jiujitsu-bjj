@@ -176,7 +176,7 @@ export function HeroSection() {
               className="group relative overflow-hidden bg-red-600 px-8 py-6 text-lg font-bold uppercase tracking-wider text-white hover:bg-red-700"
               asChild
             >
-              <a href="https://soucompetidor.com.br/pt-br/" target="_blank" rel="noopener noreferrer">
+              <a href="https://soucompetidor.com.br/pt-br/eventos/todos-os-eventos/p2596-katana-cup-de-jiu-jitsu-3-edicao/" target="_blank" rel="noopener noreferrer">
                 <span className="relative z-10">Inscreva-se Agora</span>
                 <div className="absolute inset-0 bg-gradient-to-r from-red-700 to-red-900 opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
               </a>
